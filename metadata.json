@@ -1,0 +1,6 @@
+{
+  "name": "Đối Soát Bệnh Nhân (BN) Pro",
+  "description": "Công cụ chuyên dụng đối soát và so khớp danh sách bệnh nhân thô với phần mềm HIS theo quy tắc tên chính xác, tên rút gọn và phát hiện sai lệch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
